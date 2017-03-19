@@ -42,16 +42,44 @@
     <UseVSHostingProcess>false</UseVSHostingProcess>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="Content\custom.css" />
+    <Content Include="Content\example.css" />
+    <Content Include="Content\font-awesome.css" />
+    <Content Include="Content\font-awesome.min.css" />
+    <Content Include="Elements.xml" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="Images\btns-next-prev.png" />
+    <Content Include="Images\pagination.png" />
     <Content Include="Pages\spo16Bild.aspx" />
+    <Content Include="Scripts\custom.js" />
+    <Content Include="Scripts\jquery-3.1.1.intellisense.js" />
+    <Content Include="Scripts\jquery-3.1.1.js" />
+    <Content Include="Scripts\jquery-3.1.1.min.js" />
+    <Content Include="Scripts\jquery-3.1.1.slim.js" />
+    <Content Include="Scripts\jquery-3.1.1.slim.min.js" />
+    <Content Include="Scripts\jquery.slides.js" />
+    <Content Include="Scripts\jquery.slides.min.js" />
     <Content Include="spo16Bild\Elements.xml">
       <OpcRelationship>feature-elementmanifest</OpcRelationship>
+      <SubType>Designer</SubType>
     </Content>
+    <None Include="fonts\fontawesome-webfont.eot" />
+    <None Include="fonts\fontawesome-webfont.ttf" />
+    <None Include="fonts\fontawesome-webfont.woff" />
+    <None Include="fonts\fontawesome-webfont.woff2" />
+    <None Include="fonts\FontAwesome.otf" />
     <None Include="packages.config" />
     <None Include="Pages\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{52811395-1672-4cac-a555-4f1c371f70a7}</SharePointProjectItemId>
     </None>
     <Content Include="Pages\Elements.xml" />
     <Content Include="Pages\Default.aspx" />
+    <None Include="Scripts\jquery-3.1.1.min.map" />
+    <None Include="Scripts\jquery-3.1.1.slim.min.map" />
+    <None Include="Scripts\jquery.slides.coffee" />
+    <None Include="SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{cf6410e0-1334-45ee-b652-f31d77adf9fc}</SharePointProjectItemId>
+    </None>
     <None Include="spo16Bild\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{15ece2f8-22b5-4a09-bd37-9aa5d10791d3}</SharePointProjectItemId>
     </None>

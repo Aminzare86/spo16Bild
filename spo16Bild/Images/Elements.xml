@@ -2,5 +2,7 @@
 <Elements xmlns="http://schemas.microsoft.com/sharepoint/">
   <Module Name="Images">
     <File Path="Images\AppIcon.png" Url="Images/AppIcon.png" ReplaceContent="TRUE" />
+    <File Path="Images\btns-next-prev.png" Url="Images/btns-next-prev.png" ReplaceContent="TRUE" />
+    <File Path="Images\pagination.png" Url="Images/pagination.png" ReplaceContent="TRUE" />
   </Module>
 </Elements>

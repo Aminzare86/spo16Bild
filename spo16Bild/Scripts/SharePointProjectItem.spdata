@@ -7,5 +7,16 @@
     <ProjectItemFile Source="jquery-1.9.1.min.js" Target="Scripts\" Type="ElementFile" />
     <ProjectItemFile Source="jquery-1.9.1.js" Target="Scripts\" Type="ElementFile" />
     <ProjectItemFile Source="jquery-1.9.1.intellisense.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery.slides.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.1.1.intellisense.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.1.1.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.1.1.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.1.1.min.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.1.1.slim.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.1.1.slim.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.1.1.slim.min.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery.slides.coffee" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery.slides.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="custom.js" Target="Scripts\" Type="ElementFile" />
   </Files>
 </ProjectItem>

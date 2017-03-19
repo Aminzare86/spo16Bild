@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Elements xmlns="http://schemas.microsoft.com/sharepoint/">
-  <ClientWebPart Name="spo16Bild" Title="spo16Bild " Description="spo16Bild " DefaultWidth="500" DefaultHeight="500">
+  <ClientWebPart Name="spo16Bild" Title="spo16Bild " Description="spo16Bild " DefaultWidth="600" DefaultHeight="800">
 
     <!-- Content element identifies the location of the page that will render inside the client web part
          Properties are referenced on the query string using the pattern _propertyName_
