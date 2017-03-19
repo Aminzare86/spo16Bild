@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="f680e7c3-80d6-4598-9b16-917186f7348f" 
+        solutionId="f680e7c3-80d6-4598-9b16-917186f7348f" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="spo16Bild"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="679376a9-2422-458e-8a8d-2a48c0459bea" />
+  </features>
+</package>
